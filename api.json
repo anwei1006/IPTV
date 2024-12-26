@@ -6,7 +6,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "https://codeberg.org/NLat-30/IPTV/raw/branch/main/lives/live.txt",
+            "url": "./lives/live.txt",
             "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
         }
     ],
@@ -351,7 +351,7 @@
             "name": "🎦优酷影视[官]",
             "type": 3,
             "api": "./api/drpy2.min.js",
-            "ext": "https://codeberg.org/NLat-30/IPTV/raw/branch/main/js/优酷.js"
+            "ext": "./js/优酷.js"
         },
         {
             "key": "腾讯",
